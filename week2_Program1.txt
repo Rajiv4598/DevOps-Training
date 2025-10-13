@@ -1,0 +1,3 @@
+Hello from file1
+Hello from file2
+Hello from file3
